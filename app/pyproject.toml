@@ -1,0 +1,5 @@
+[tool.streamlit]
+
+[[tool.streamlit.components]]
+name = "streamlit-extras.three_viewer"
+asset_dir = "node_modules/streamlit-extras-three-viewer"
